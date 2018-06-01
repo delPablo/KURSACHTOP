@@ -1,0 +1,2 @@
+Відкрий WindowsFormsApp1
+НЕ WindowsFormsApp1.sln

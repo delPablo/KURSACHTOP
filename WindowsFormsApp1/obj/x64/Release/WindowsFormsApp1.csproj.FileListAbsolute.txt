@@ -1,0 +1,10 @@
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe.config
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.pdb
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Main.resources
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Result.resources
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.exe
+C:\Users\Шостакевич Павло\Desktop\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.pdb
